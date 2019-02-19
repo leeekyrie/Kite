@@ -1,4 +1,4 @@
-# tuya_flutter_widget
+# Kite
 
 Kite is Tuya Flutter Widgets.
 
